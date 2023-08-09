@@ -8,7 +8,7 @@ Authors: Zachary Gajewski1, Philip McEmurray2,3, Jeremy Wojdak4, Cari McGregor4,
 2.	Department of Biological Sciences, Virginia Tech, Blacksburg, VA
 3.	Department of Anthropology, Washington University in St. Louis, St. Louis, MO
 4.	Department of Biology, Radford University, Radford, VA
-5.	
+
 Corresponding Author: Zachary Gajewski, gajewskizach@gmail.com
 
 Experimental Study Design
