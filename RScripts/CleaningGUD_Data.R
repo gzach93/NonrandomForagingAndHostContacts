@@ -5,8 +5,8 @@ library(jmuOutlier)
 library(lubridate)
 
 #Load in Data
-data <- read.csv('Data/GUD_Data.csv')
-tank.info <- read.csv('Data/TankInfo_Data.csv')
+data <- read.csv('GUD_Data.csv')
+tank.info <- read.csv('TankInfo_Data.csv')
 
 tank.info <- tank.info[tank.info$replicate == 1,]
 tank.info <- tank.info[,-c(1,5,6,7)]

@@ -4,8 +4,8 @@ library(tidyverse)
 library(ggpubr)
 
 #Load Data
-abm.dat <- read.csv('Data/OutputABMSimFinal.csv')
-exp.dat <- read.csv('Data/ExpPatchData.csv')
+abm.dat <- read.csv('OutputABMSimFinal.csv')
+exp.dat <- read.csv('ExpPatchData.csv')
 
 #Using Patch Time and # Patches From last tick in ABM
 abm.dat <- abm.dat[abm.dat$ticks == 50,]

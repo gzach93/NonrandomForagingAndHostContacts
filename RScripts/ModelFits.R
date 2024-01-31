@@ -191,7 +191,7 @@ ggplot() +
 ######################################
 
 #Load in Cleaned ABM Data -- Long Format
-abm.dat <- read.csv('~/Downloads/OutputABMSimFinal150_6Dec23.csv')
+abm.dat <- read.csv('OutputABMSimFinal.csv')
 
 #Rename ABM Data Columns
 colnames(abm.dat) <- c('run', 'start_infections', 'feeding', 'algae_conc',
