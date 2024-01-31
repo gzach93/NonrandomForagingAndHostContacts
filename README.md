@@ -1,4 +1,4 @@
-This file describes the six datasets, six R scripts, and three NetLogo agent-based model (ABM) code used to run the analysis for “Nonrandom foraging and resource distributions affect the relationships between host density, contact rates, and parasite transmission”. Netlogo was run using version 6.1.1 and R version 4.0.0 was used to analyze all the data. 
+This file describes the six datasets, six R scripts, and three NetLogo agent-based model (ABM) code used to run the analysis for “Nonrandom foraging and resource distributions affect the relationships between host density, contact rates, and parasite transmission”. NetLogo was run using version 6.1.1 and R version 4.0.0 was used to analyze all the data. 
 
 Authors: Zachary Gajewski1, Philip McEmurray2,3, Jeremy Wojdak4, Cari McGregor4, Lily Zeller1, Hannah Cooper1, Lisa K. Belden2, Skylar Hopkins1
 
@@ -174,4 +174,3 @@ snail density: The snail density for the tank/trial. Snail density was either 2,
 aggregation: A numeric variable describing the aggregation of resources. An aggregation index of 0 indicates that the resources are uniformly spaced. As aggregation index increases, the clustering of resources also increases, and for distributions 4, 5, 6, distance to the nearest resource patch also increases with clustering. 
 snail color: A unique identifier for each snail in a given tank/microcosm. The letters are based on the color(s) of nail polish used on the snail.
 
-![image](https://github.com/gzach93/NonrandomForagingAndHostContacts/assets/16737094/d09d8409-327e-4140-b1d7-dfc882d47e53)
